@@ -1,2 +1,2 @@
-- slnc = **silence** without vowels
+- slnc = **silence**
 - [juanalonso.blog/now](http://juanalonso.blog/now)
