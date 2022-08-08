@@ -1,2 +1,2 @@
 - slnc = **silence**
-- [juan.al/now](http://juan.al/now)
+- [juan.al/](http://juan.al/)
